@@ -1,0 +1,31 @@
+{
+  "id": "crafts-fandg",
+  "title": "Crafts F&G",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Denis Brandao",
+      "discord": "denisbrandao",
+      "email": "denisbrandao@gmail.com",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "crafts-fandg",
+      "label": "Crafts F&G",
+      "path": "packs/crafts-fandg",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
